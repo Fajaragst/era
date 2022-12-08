@@ -1,0 +1,6 @@
+CREATE DATABASE db_era_dev;
+GRANT ALL PRIVILEGES ON DATABASE db_era_dev TO fajar;
+CREATE DATABASE db_era_prod;
+GRANT ALL PRIVILEGES ON DATABASE db_era_prod TO fajar;
+CREATE DATABASE db_era_testing;
+GRANT ALL PRIVILEGES ON DATABASE db_era_testing TO fajar;
